@@ -1,0 +1,6 @@
+saldo, -140000, zus
+zakup, test, 15000, 5
+sprzedaz, test, 15000, 1
+zakup, test2, 40000, 5
+zakup, test, 15000, 10
+stop
